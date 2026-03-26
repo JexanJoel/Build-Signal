@@ -1,38 +1,42 @@
 <div align="center">
 
-# 🚀 RealityCheck
+# 🚀 BuildSignal
 
-### Your idea’s permanent reality check.
-
-**Log your idea, get structured AI analysis, and know whether to build it - before you waste a single day.**
+## Your idea’s permanent reality check.
 
 <p align="center">
-  <a href="https://reality-checker-three.vercel.app">
-    <img src="https://img.shields.io/badge/Live-Demo-22c55e?style=flat-square" alt="Live Demo" />
+  <a href="https://build-signal.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-Try_BuildSignal-22c55e?style=for-the-badge" alt="Live Demo" />
   </a>
-  <a href="https://github.com/JexanJoel/Reality-Checker">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repository" />
+  <a href="https://github.com/JexanJoel/Build-Signal">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
   </a>
   <a href="./LICENSE">
-    <img src="https://img.shields.io/badge/License-Apache%202.0-blue?style=flat-square" alt="License" />
+    <img src="https://img.shields.io/badge/License-Apache_2.0-2563eb?style=for-the-badge" alt="License" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_Powered-Groq_+_Llama_3.3_70B-10b981?style=for-the-badge" alt="Groq + Llama" />
+  <img src="https://img.shields.io/badge/Analysis-8_Dimensions-3b82f6?style=for-the-badge" alt="8 Dimensions" />
+  <img src="https://img.shields.io/badge/Modes-Quick_•_Deep_•_Savage-f59e0b?style=for-the-badge" alt="Modes" />
 </p>
 
 </div>
 
 ---
 
-## ✨ What is RealityCheck?
+## ✨ What is BuildSignal?
 
-**RealityCheck** is an AI-powered idea validation platform built for builders, indie hackers, students, and developers who want honest feedback before committing time to the wrong product.
+**BuildSignal** is an AI-powered idea validation platform built for builders, indie hackers, students, and developers who want honest feedback before committing time to the wrong product.
 
 Instead of guessing whether an idea is worth building, users can submit their concept and receive a **structured, scored, plain-English analysis** covering clarity, risk, MVP scope, validation steps, and final recommendation.
 
 It is designed to answer one simple question:
 
 > **Should I build this, improve it, or move on?**
----
 
+---
 
 ## 🧠 The Problem
 
@@ -48,13 +52,13 @@ Most builders don’t fail because they can’t code.
 
 They fail because they build the **wrong thing**.
 
-**RealityCheck** helps solve that early.
+**BuildSignal** helps solve that early.
 
 ---
 
 ## 💡 The Solution
 
-RealityCheck gives every idea a fast, structured AI review so builders can:
+BuildSignal gives every idea a fast, structured AI review so builders can:
 
 - understand who the product is really for
 - spot hidden risks before building
@@ -112,7 +116,7 @@ Enter your title, problem, target user, and concept in plain English.
 Select Quick, Deep, or Savage mode depending on how much detail you want.
 
 ### 3. Get your verdict
-RealityCheck scores the idea and returns a structured analysis across multiple dimensions.
+BuildSignal scores the idea and returns a structured analysis across multiple dimensions.
 
 ### 4. Save and iterate
 Store analyses in your dashboard and improve ideas over time.
@@ -157,7 +161,7 @@ This makes it easy to compare ideas and decide what deserves your time.
 
 ## 🧠 Why This Project Stands Out
 
-RealityCheck is not just another “ask AI about my idea” app.
+BuildSignal is not just another “ask AI about my idea” app.
 
 It focuses on:
 
@@ -176,7 +180,7 @@ That makes it practical, memorable, and easy to demo.
 
 ## 🎯 Built For
 
-RealityCheck is useful for:
+BuildSignal is useful for:
 
 - indie hackers
 - solo founders
