@@ -4,23 +4,24 @@
 
 ### Your idea's permanent reality check.
 
-<p align="center">
-  <a href="https://build-signal.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐 Live Demo-Try BuildSignal-22c55e?style=for-the-badge" alt="Live Demo" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/JexanJoel/Build-Signal">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="./LICENSE">
-    <img src="https://img.shields.io/badge/License-Apache_2.0-2563eb?style=for-the-badge" alt="License" />
-  </a>
-</p>
+<br/>
+
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-build--signal.vercel.app-22c55e?style=for-the-badge)](https://build-signal.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Build--Signal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JexanJoel/Build-Signal)
+[![License](https://img.shields.io/badge/License-Apache%202.0-2563eb?style=for-the-badge)](./LICENSE)
 
 <br/>
 
-> **Built in 7 days for [LovHack Season 2](https://lovhack.devpost.com/) · Global Online Hackathon · March 2026**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-FF6B35?style=flat-square&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+<br/>
+
+> **Built in 7 days for [LovHack Season 2](https://lovhack.devpost.com/) - Global Online Hackathon - March 2026**
 
 <br/>
 
@@ -30,33 +31,88 @@
 
 ## 🏆 LovHack Season 2 Submission
 
-BuildSignal was built from scratch during **LovHack Season 2** — a 7-day global online hackathon challenging builders to ship real, working products using modern AI tools.
+BuildSignal was built from scratch during **LovHack Season 2** - a 7-day global online hackathon challenging builders to ship real, working products using modern AI tools.
+
+<div align="center">
 
 | | |
-|---|---|
+|:---|:---|
 | 🗓 **Hackathon** | LovHack Season 2 |
 | ⏱ **Timeline** | 7 days |
-| 🌍 **Format** | Global · Online |
-| 🎯 **Theme** | Machine Learning / AI · Productivity · Web |
+| 🌍 **Format** | Global - Online |
+| 🎯 **Theme** | Machine Learning / AI - Productivity - Web |
 | 🔗 **Live Demo** | [build-signal.vercel.app](https://build-signal.vercel.app/) |
+
+</div>
+
+---
+
+## 🎬 Demo
+
+<div align="center">
+
+*Click the thumbnail below to watch the demo*
+
+<br/>
+
+[![BuildSignal Demo](https://img.shields.io/badge/▶%20Watch%20Demo-BuildSignal%20Walkthrough-dc2626?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_VIDEO_URL_HERE)
+
+<!-- 
+  To use a real thumbnail instead of the badge above, replace it with:
+  [![Watch Demo](path/to/your-thumbnail.png)](YOUR_VIDEO_URL_HERE)
+-->
+
+</div>
+
+---
+
+## 📸 Screenshots
+
+<div align="center">
+
+### New Analysis
+
+*Describe your idea, set your target users, and pick an analysis mode*
+
+![New Analysis](screenshots/new-analysis.png)
+
+<br/>
+
+### Dashboard
+
+*All your saved analyses in one place - scores, verdicts, and history at a glance*
+
+![Dashboard](screenshots/dashboard.png)
+
+<br/>
+
+### Analysis Result
+
+*Full structured breakdown - strengths, risks, MVP scope, validation steps, and a final verdict*
+
+![Analysis Result](screenshots/result.png)
+
+</div>
 
 ---
 
 ## ✨ What is BuildSignal?
 
+<div align="center">
+
 **BuildSignal** is an AI-powered idea validation platform for builders, indie hackers, students, and developers who want honest feedback before committing weeks to the wrong product.
 
-Submit your concept. Get a **structured, scored, plain-English analysis** covering clarity, risk, market opportunity, MVP scope, validation steps, and a final recommendation — all in under 30 seconds.
-
-It answers one simple question:
+Submit your concept. Get a **structured, scored, plain-English analysis** covering clarity, risk, market opportunity, MVP scope, validation steps, and a final recommendation - all in under 30 seconds.
 
 > **Should I build this, improve it, or move on?**
+
+</div>
 
 ---
 
 ## 🧠 The Problem
 
-Most product ideas sound exciting — until reality sets in:
+Most product ideas sound exciting - until reality sets in:
 
 - The target user was never clearly defined
 - The market is too crowded
@@ -86,8 +142,10 @@ Instead of vague chatbot output, the platform returns a **clear verdict with a s
 
 ## 🔥 Core Features
 
+<div align="center">
+
 | Feature | Description |
-|---|---|
+|:---|:---|
 | ⚡ **Instant AI Analysis** | Complete structured review in under 30 seconds |
 | 🎯 **User Clarity Score** | Measures how well-defined your target audience is |
 | 🛡️ **Risk Detection** | Surfaces weak assumptions and failure points early |
@@ -95,64 +153,76 @@ Instead of vague chatbot output, the platform returns a **clear verdict with a s
 | ✅ **Validation Steps** | Actionable ways to test demand before building |
 | 💾 **Dashboard History** | Save and revisit analyses as your thinking evolves |
 | 📊 **Idea Scoring** | Each idea scored out of 100 across multiple dimensions |
-| 🧪 **3 Analysis Modes** | Quick · Deep · Savage — choose your feedback intensity |
-| 📌 **Clear Verdict** | BUILD IT · NEEDS WORK · RISKY · PASS |
+| 🧪 **3 Analysis Modes** | Quick - Deep - Savage: choose your feedback intensity |
+| 📌 **Clear Verdict** | BUILD IT - NEEDS WORK - RISKY - PASS |
+
+</div>
 
 ---
 
 ## 🧪 3 Analysis Modes
 
+<div align="center">
+
 | Mode | Description |
-|---|---|
+|:---:|:---|
 | ⚡ **Quick** | Fast overview with key insights |
 | 🔍 **Deep** | Thorough breakdown across all 8 dimensions |
-| 🔥 **Savage** | Brutally honest — no filter, no sugar coating |
+| 🔥 **Savage** | Brutally honest - no filter, no sugar coating |
+
+</div>
 
 ---
 
 ## 🏗️ How It Works
 
+<div align="center">
+
 ```
 1. Describe your idea
-   → Title, target user, problem statement, and concept in plain English
+   -> Title, target user, problem statement, and concept in plain English
 
 2. Choose analysis mode
-   → Quick, Deep, or Savage depending on how much detail you need
+   -> Quick, Deep, or Savage depending on how much detail you need
 
 3. Get your verdict
-   → Scored analysis across strengths, weaknesses, risks, MVP scope,
-     market opportunity, validation steps, and final recommendation
+   -> Scored analysis across strengths, weaknesses, risks, MVP scope,
+      market opportunity, validation steps, and final recommendation
 
 4. Save and iterate
-   → All analyses saved to your dashboard to revisit and improve over time
+   -> All analyses saved to your dashboard to revisit and improve over time
 ```
+
+</div>
 
 ---
 
 ## 🧾 Example Output
 
+<div align="center">
+
 | Idea | Score | Verdict |
-|---|---:|---|
+|:---|---:|:---|
 | Micro-SaaS expense tracker for freelancers | 84/100 | 🚀 BUILD IT |
 | AI chatbot for restaurants | 58/100 | 🔧 NEEDS WORK |
 | Crypto portfolio tracker | 29/100 | ❌ PASS |
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-- React + TypeScript
-- Tailwind CSS
-- React Router
+<div align="center">
 
-**Backend / Platform**
-- Supabase — authentication, database, edge functions
-- Persistent analysis history via saved dashboard
+| Layer | Technology |
+|:---|:---|
+| **Frontend** | React, TypeScript, Tailwind CSS, React Router |
+| **Backend** | Supabase - auth, database, edge functions |
+| **AI** | Groq API + Llama 3.3 70B |
+| **Hosting** | Vercel |
 
-**AI**
-- Groq API
-- Llama 3.3 70B
+</div>
 
 ---
 
@@ -160,20 +230,20 @@ Instead of vague chatbot output, the platform returns a **clear verdict with a s
 
 ```
 src/
-├── components/        # Shared UI components
-├── hooks/             # useAuth, useIdeas, useDeleteIdea
+├── components/         # Shared UI components
+├── hooks/              # useAuth, useIdeas, useDeleteIdea
 ├── pages/
-│   ├── Landing.tsx    # Marketing landing page
-│   ├── Dashboard.tsx  # Saved ideas overview + stats
+│   ├── Landing.tsx     # Marketing landing page
+│   ├── Dashboard.tsx   # Saved ideas overview + stats
 │   ├── NewAnalysis.tsx # Idea submission form
 │   └── IdeaDetail.tsx  # Full analysis result view
 ├── lib/
-│   └── supabase.ts    # Supabase client
-└── types/             # AnalysisResult and shared types
+│   └── supabase.ts     # Supabase client
+└── types/              # AnalysisResult and shared types
 
 supabase/
 └── functions/
-    └── analyze-idea/  # Edge function calling Groq API
+    └── analyze-idea/   # Edge function calling Groq API
 ```
 
 ---
@@ -204,9 +274,13 @@ This is not another "ask AI about my idea" chatbot.
 
 BuildSignal is built around a **real workflow**:
 
+<div align="center">
+
 ```
-idea → analysis → verdict → save → improve
+idea  ->  analysis  ->  verdict  ->  save  ->  improve
 ```
+
+</div>
 
 It focuses on:
 
@@ -215,30 +289,38 @@ It focuses on:
 - **Builder usefulness** over AI hype
 - **Speed and clarity** over complexity
 
-The result is a tool that is practical, fast to demo, and solves a real problem that every builder faces — deciding what is actually worth building.
+The result is a tool that is practical, fast to demo, and solves a real problem that every builder faces - deciding what is actually worth building.
 
 ---
 
 ## 🎯 Built For
 
-- Indie hackers and solo founders
-- Hackathon builders
-- Students exploring startup ideas
-- Developers testing product concepts
-- Makers who want fast, honest feedback
+<div align="center">
+
+Indie hackers and solo founders - Hackathon builders - Students exploring startup ideas
+
+Developers testing product concepts - Makers who want fast, honest feedback
+
+</div>
 
 ---
 
 ## 📄 License
 
+<div align="center">
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-2563eb?style=for-the-badge)](./LICENSE)
+
 Licensed under the [Apache 2.0 License](./LICENSE).
+
+</div>
 
 ---
 
 <div align="center">
 
-Built with ⚡ during **LovHack Season 2** · March 2026
+Built with ⚡ during **LovHack Season 2** - March 2026
 
-**[Try it live →](https://build-signal.vercel.app/)**
+**[Try it live ->](https://build-signal.vercel.app/)**
 
 </div>
