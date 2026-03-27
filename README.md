@@ -120,11 +120,15 @@ Instead of vague chatbot output, the platform returns a **clear verdict with a s
 
 ## 🧪 3 Analysis Modes
 
+<div align="center">
+
 | Mode | Description |
 |:---|:---|
 | ⚡ **Quick** | Fast overview with key insights |
 | 🔍 **Deep** | Thorough breakdown across all 8 dimensions |
 | 🔥 **Savage** | Brutally honest - no filter, no sugar coating |
+
+</div>
 
 ---
 
@@ -149,11 +153,15 @@ Instead of vague chatbot output, the platform returns a **clear verdict with a s
 
 ## 🧾 Example Output
 
+<div align="center">
+
 | Idea | Score | Verdict |
 |:---|---:|:---|
 | Micro-SaaS expense tracker for freelancers | 84/100 | 🚀 BUILD IT |
 | AI chatbot for restaurants | 58/100 | 🔧 NEEDS WORK |
 | Crypto portfolio tracker | 29/100 | ❌ PASS |
+
+</div>
 
 ---
 
