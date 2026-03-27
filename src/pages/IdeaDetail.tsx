@@ -143,14 +143,16 @@ export default function IdeaDetail() {
               <p className="text-sm text-gray-600 leading-relaxed">{result.summary}</p>
             </div>
             <div className="flex flex-row sm:flex-col items-center gap-4 sm:gap-2 flex-shrink-0">
+              {/* FIX: rotate only the arcs via <g>, keep text upright */}
               <div className="relative w-32 h-32 ring-appear">
                 <svg className="w-32 h-32" viewBox="0 0 80 80">
-                  <circle cx="40" cy="40" r="36" fill="none" stroke="rgba(255,255,255,0.7)" strokeWidth="7" />
-                  <circle cx="40" cy="40" r="36" fill="none"
-                    stroke={vc.color} strokeWidth="7"
-                    strokeDasharray={`${dash} ${circumference}`}
-                    strokeDashoffset={circumference * 0.25}
-                    strokeLinecap="round" />
+                  <g transform="rotate(-90 40 40)">
+                    <circle cx="40" cy="40" r="36" fill="none" stroke="rgba(255,255,255,0.7)" strokeWidth="7" />
+                    <circle cx="40" cy="40" r="36" fill="none"
+                      stroke={vc.color} strokeWidth="7"
+                      strokeDasharray={`${dash} ${circumference}`}
+                      strokeLinecap="round" />
+                  </g>
                   <text x="40" y="36" textAnchor="middle" dominantBaseline="middle"
                     fontSize="16" fontWeight="900" fill={vc.color}>{result.score}</text>
                   <text x="40" y="50" textAnchor="middle" dominantBaseline="middle"
