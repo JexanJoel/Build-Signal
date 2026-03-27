@@ -30,7 +30,7 @@ BuildSignal was built from scratch during **LovHack Season 2** - a 7 day global 
 
 > Click the thumbnail below to watch the demo
 
-[![Watch Demo](screenshots/demo-thumbnail.png)](YOUR_VIDEO_URL_HERE)
+[![Watch Demo](screenshots/demo-thumbnail.png)](https://youtu.be/xPcak0N0Cag)
 
 ---
 
