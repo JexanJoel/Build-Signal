@@ -33,42 +33,21 @@
 
 BuildSignal was built from scratch during **LovHack Season 2** - a 7-day global online hackathon challenging builders to ship real, working products using modern AI tools.
 
-<div align="center">
-
-| | |
-|:---|:---|
-| 🗓 **Hackathon** | LovHack Season 2 |
-| ⏱ **Timeline** | 7 days |
-| 🌍 **Format** | Global - Online |
-| 🎯 **Theme** | Machine Learning / AI - Productivity - Web |
-| 🔗 **Live Demo** | [build-signal.vercel.app](https://build-signal.vercel.app/) |
-
-</div>
-
 ---
 
 ## 🎬 Demo
 
-<div align="center">
+> Click the thumbnail below to watch the demo
 
-*Click the thumbnail below to watch the demo*
+[![Watch Demo](screenshots/demo-thumbnail.png)](YOUR_VIDEO_URL_HERE)
 
-<br/>
-
-[![BuildSignal Demo](https://img.shields.io/badge/▶%20Watch%20Demo-BuildSignal%20Walkthrough-dc2626?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_VIDEO_URL_HERE)
-
-<!-- 
-  To use a real thumbnail instead of the badge above, replace it with:
-  [![Watch Demo](path/to/your-thumbnail.png)](YOUR_VIDEO_URL_HERE)
--->
-
-</div>
+<!-- Replace YOUR_VIDEO_URL_HERE with your video link -->
+<!-- To use a badge instead of a thumbnail, replace the line above with: -->
+<!-- [![BuildSignal Demo](https://img.shields.io/badge/▶%20Watch%20Demo-BuildSignal%20Walkthrough-dc2626?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_VIDEO_URL_HERE) -->
 
 ---
 
 ## 📸 Screenshots
-
-<div align="center">
 
 ### New Analysis
 
@@ -76,15 +55,11 @@ BuildSignal was built from scratch during **LovHack Season 2** - a 7-day global 
 
 ![New Analysis](screenshots/new-analysis.png)
 
-<br/>
-
 ### Dashboard
 
 *All your saved analyses in one place - scores, verdicts, and history at a glance*
 
 ![Dashboard](screenshots/dashboard.png)
-
-<br/>
 
 ### Analysis Result
 
@@ -92,21 +67,17 @@ BuildSignal was built from scratch during **LovHack Season 2** - a 7-day global 
 
 ![Analysis Result](screenshots/result.png)
 
-</div>
-
 ---
 
 ## ✨ What is BuildSignal?
-
-<div align="center">
 
 **BuildSignal** is an AI-powered idea validation platform for builders, indie hackers, students, and developers who want honest feedback before committing weeks to the wrong product.
 
 Submit your concept. Get a **structured, scored, plain-English analysis** covering clarity, risk, market opportunity, MVP scope, validation steps, and a final recommendation - all in under 30 seconds.
 
-> **Should I build this, improve it, or move on?**
+It answers one simple question:
 
-</div>
+> **Should I build this, improve it, or move on?**
 
 ---
 
@@ -142,8 +113,6 @@ Instead of vague chatbot output, the platform returns a **clear verdict with a s
 
 ## 🔥 Core Features
 
-<div align="center">
-
 | Feature | Description |
 |:---|:---|
 | ⚡ **Instant AI Analysis** | Complete structured review in under 30 seconds |
@@ -156,27 +125,19 @@ Instead of vague chatbot output, the platform returns a **clear verdict with a s
 | 🧪 **3 Analysis Modes** | Quick - Deep - Savage: choose your feedback intensity |
 | 📌 **Clear Verdict** | BUILD IT - NEEDS WORK - RISKY - PASS |
 
-</div>
-
 ---
 
 ## 🧪 3 Analysis Modes
 
-<div align="center">
-
 | Mode | Description |
-|:---:|:---|
+|:---|:---|
 | ⚡ **Quick** | Fast overview with key insights |
 | 🔍 **Deep** | Thorough breakdown across all 8 dimensions |
 | 🔥 **Savage** | Brutally honest - no filter, no sugar coating |
 
-</div>
-
 ---
 
 ## 🏗️ How It Works
-
-<div align="center">
 
 ```
 1. Describe your idea
@@ -193,13 +154,9 @@ Instead of vague chatbot output, the platform returns a **clear verdict with a s
    -> All analyses saved to your dashboard to revisit and improve over time
 ```
 
-</div>
-
 ---
 
 ## 🧾 Example Output
-
-<div align="center">
 
 | Idea | Score | Verdict |
 |:---|---:|:---|
@@ -207,13 +164,9 @@ Instead of vague chatbot output, the platform returns a **clear verdict with a s
 | AI chatbot for restaurants | 58/100 | 🔧 NEEDS WORK |
 | Crypto portfolio tracker | 29/100 | ❌ PASS |
 
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
-
-<div align="center">
 
 | Layer | Technology |
 |:---|:---|
@@ -221,8 +174,6 @@ Instead of vague chatbot output, the platform returns a **clear verdict with a s
 | **Backend** | Supabase - auth, database, edge functions |
 | **AI** | Groq API + Llama 3.3 70B |
 | **Hosting** | Vercel |
-
-</div>
 
 ---
 
@@ -274,13 +225,9 @@ This is not another "ask AI about my idea" chatbot.
 
 BuildSignal is built around a **real workflow**:
 
-<div align="center">
-
 ```
 idea  ->  analysis  ->  verdict  ->  save  ->  improve
 ```
-
-</div>
 
 It focuses on:
 
@@ -295,25 +242,17 @@ The result is a tool that is practical, fast to demo, and solves a real problem 
 
 ## 🎯 Built For
 
-<div align="center">
-
-Indie hackers and solo founders - Hackathon builders - Students exploring startup ideas
-
-Developers testing product concepts - Makers who want fast, honest feedback
-
-</div>
+- Indie hackers and solo founders
+- Hackathon builders
+- Students exploring startup ideas
+- Developers testing product concepts
+- Makers who want fast, honest feedback
 
 ---
 
 ## 📄 License
 
-<div align="center">
-
 [![License](https://img.shields.io/badge/License-Apache%202.0-2563eb?style=for-the-badge)](./LICENSE)
-
-Licensed under the [Apache 2.0 License](./LICENSE).
-
-</div>
 
 ---
 
@@ -321,6 +260,5 @@ Licensed under the [Apache 2.0 License](./LICENSE).
 
 Built with ⚡ during **LovHack Season 2** - March 2026
 
-**[Try it live ->](https://build-signal.vercel.app/)**
 
 </div>
