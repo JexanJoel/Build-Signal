@@ -36,6 +36,18 @@ BuildSignal was built from scratch during **LovHack Season 2** - a 7 day global 
 
 ## 📸 Screenshots
 
+### Landing Page
+
+*Clean first impression with product pitch, core value, and clear call-to-action*
+
+![Landing Page](screenshots/landing-page.png)
+
+### Login
+
+*Simple authentication flow for users to sign in and start validating ideas*
+
+![Login](screenshots/login.png)
+
 ### New Analysis
 
 *Describe your idea, set your target users, and pick an analysis mode*
