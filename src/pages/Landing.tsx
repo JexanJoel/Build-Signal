@@ -158,7 +158,7 @@ export default function Landing() {
               onMouseLeave={e => { e.currentTarget.style.background = "var(--green)"; e.currentTarget.style.transform = "scale(1)" }}>
               Analyse an idea free <ArrowRight size={18} />
             </button>
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer"
+            <a href="https://github.com/JexanJoel/Build-Signal" target="_blank" rel="noopener noreferrer"
               className="w-full sm:w-auto flex items-center justify-center gap-2 bg-white border-2 border-gray-100 hover:border-gray-200 text-gray-700 font-bold px-10 py-4 rounded-2xl transition-all hover:bg-gray-50">
               <GithubIcon size={18} /> View on GitHub
             </a>
@@ -339,7 +339,7 @@ export default function Landing() {
                   style={{ color: "var(--green)" }}>
                   Get started free <ArrowRight size={17} />
                 </button>
-                <a href="https://github.com" target="_blank" rel="noopener noreferrer"
+                <a href="https://github.com/JexanJoel/Build-Signal" target="_blank" rel="noopener noreferrer"
                   className="w-full sm:w-auto flex items-center justify-center gap-2 border-2 border-white/30 hover:border-white/60 text-white font-semibold px-8 py-3.5 rounded-xl transition">
                   <GithubIcon size={17} /> View on GitHub
                 </a>
